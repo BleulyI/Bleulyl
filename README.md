@@ -16,10 +16,9 @@
 </br>
 
 # Stats
-[![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bleulyl&show_icons=true&theme=prussian)]
+![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleulyl&show_icons=true&theme=prussian)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bleulyl&layout=compact&theme=dracula&langs_count=8)
 
 
 # Links
 [<img alt="Spotify" width="40px" src="assets/Spotify.png" />](https://open.spotify.com/user/u1cu6701ox4nrkfxrspxu2nk9)
-&show_icons=true&theme=prussian)
