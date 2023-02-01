@@ -1,4 +1,3 @@
-
 # A programmer for a great robotics team
 
 ## 👋 Hi, I'm **Hudson**
@@ -16,10 +15,9 @@
 </br>
 
 # Stats
-[![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleulyl&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleulyl&show_icons=true&theme=prussian)
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bleulyl&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Links
 [<img alt="Spotify" width="40px" src="assets\Spotify.png" />](https://open.spotify.com/user/u1cu6701ox4nrkfxrspxu2nk9)
-
