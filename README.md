@@ -16,7 +16,7 @@
 </br>
 
 # Stats
-![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleulyl&show_icons=true&theme=prussian)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bleulyl&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bleulyl&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
