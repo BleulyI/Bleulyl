@@ -6,22 +6,20 @@
 -  Interested in Full Stack web dev, UI/UX Designing, Open-Source
 -  Technologies I'm familiar with: React JS, Solid JS, Node JS, Electron, Python Scripting
 -  A Music Lover, who can't Stop listening to Music
--  My Favorite Game is Teamfight Tactics
+-  My Favorite Game is Team Fight Tactics
 
 </br>
 
 # What am I doing now 🤔?
-[![Discord Presence](https://lanyard.kyrie25.me/api/526880589236666419)](https://discord.com/users/526880589236666419)?bg=282a36&gradient=DD6387-DD6387&&waveSpotifyColor=DD6387&waveColor=DD6387)
+[![Discord Presence](https://lanyard.kyrie25.me/api/526880589236666419?bg=282a36&gradient=274a6b-274a6b&&waveSpotifyColor=24282b&waveColor=24282b)](https://discord.com/users/526880589236666419)
 
 </br>
 
 # Stats
-![Raghavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetrax-10&show_icons=true&theme=dracula)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetrax-10&layout=compact&theme=dracula&langs_count=8)
+[![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bleuly&show_icons=true&theme=prussian)]
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bleulyl&layout=compact&theme=dracula&langs_count=8)
 
-# My Favorite Projects
-[![Nord-Spotify](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=Nord-Spotify&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/Nord-Spotify)
-[![Spicetify-Extensions](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=Spicetify-Extensions&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/Spicetify-Extensions)
 
 # Links
-[<img alt="Spotify" width="40px" src="assets/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
+[<img alt="Spotify" width="40px" src="assets/spotify.png" />](https://open.spotify.com/user/u1cu6701ox4nrkfxrspxu2nk9)
+&show_icons=true&theme=prussian)
