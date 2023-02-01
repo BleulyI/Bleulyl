@@ -17,7 +17,7 @@
 
 # Stats
 ![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleulyl&show_icons=true&theme=prussian)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bleulyl&layout=compact&theme=dracula&langs_count=8)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bleulyl&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Links
