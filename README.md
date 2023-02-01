@@ -21,4 +21,4 @@
 
 
 # Links
-[<img alt="Spotify" width="40px" src="assets/Spotify.png" />](https://open.spotify.com/user/u1cu6701ox4nrkfxrspxu2nk9)
+[<img alt="Spotify" width="40px" src="assets\Spotify.png" />](https://open.spotify.com/user/u1cu6701ox4nrkfxrspxu2nk9)
