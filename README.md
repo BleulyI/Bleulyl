@@ -1,11 +1,13 @@
 # A programmer for a great robotics team
 
-## 👋 Hi, I'm **Hudson**
+## 👋 Hi, I'm **Hudson** (he/him) - A Developer focused on open-source projects.
+
 -  A High School Student with a passion for programming
--  Interested in Full Stack web dev, UI/UX Designing, Open-Source
--  Technologies I'm familiar with: React JS, Solid JS, Node JS, Electron, Python Scripting
 -  A Music Lover, who can't Stop listening to Music
 -  My Favorite Game is Team Fight Tactics
+
+# Email: _[bleulyl@bleulyl.dev](mailto:bleulyl@bleulyl.dev)_
+# Telegram: _[@bleulyl](https://t.me/bleulyl)_
 
 </br>
 
@@ -16,8 +18,6 @@
 
 # Stats
 ![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleulyl&show_icons=true&theme=prussian)
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bleulyl&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Links
-[<img alt="Spotify" width="40px" src="assets\Spotify.png" />](https://open.spotify.com/user/u1cu6701ox4nrkfxrspxu2nk9)
+
