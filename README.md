@@ -4,10 +4,7 @@
 </h1>
 
 <p align='center'>
-  I make semi-functional Presences for the PreMiD Store sometimes, Discord Bots and I do other miscellaneous coding projects.
-</p>
-<p align='center'>
-  I'm also a Computer Science student at A Level!
+  I make Discord bots, code for a robotics team, and do a dabble of bounty hunting. 
 </p>
 
 <p align='center'>
@@ -15,11 +12,11 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bleulshow_icons=true&count_private=true&hide_border=true&bg_color=38579F&title_color=D76C94&text_color=FFFFFF" width="500"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bleul&show_icons=true&count_private=true&hide_border=true&bg_color=38579F&title_color=D76C94&text_color=FFFFFF" width="500"></a>
 </p>
 
 <p align='center' href="https://wakatime.com/@StrikerFRFX">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StrikerFRFX&show_icons=true&hide_border=true&bg_color=38579F&title_color=D76C94&text_color=FFFFFF&icon_color=00d200" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bleul&show_icons=true&hide_border=true&bg_color=38579F&title_color=D76C94&text_color=FFFFFF&icon_color=00d200" width="500">
 </a>  
 
 <p align='center'>
