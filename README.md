@@ -15,7 +15,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=strikerfrfx&show_icons=true&count_private=true&hide_border=true&bg_color=38579F&title_color=D76C94&text_color=FFFFFF" width="500"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bleulshow_icons=true&count_private=true&hide_border=true&bg_color=38579F&title_color=D76C94&text_color=FFFFFF" width="500"></a>
 </p>
 
 <p align='center' href="https://wakatime.com/@StrikerFRFX">
