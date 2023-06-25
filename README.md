@@ -28,5 +28,5 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:me@hduddydba34@gmail.com'>me@hduddydba34@gmail.com</a>
+  📫 How to reach me: <a href='mailto:hduddydba34@gmail.com'>hduddydba34@gmail.com</a>
 </p>
